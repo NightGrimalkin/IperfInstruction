@@ -10,4 +10,4 @@
 - git clone https://github.com/NightGrimalkin/IperfFrontEnd.git
 - w katalogu głównym uruchamiamy npm install
 -  w katalogu głównym uruchamiamy npm run build
--  w katalogu głównym uruchamiamy npx serve
+-  w katalogu głównym uruchamiamy komende uruchamiajaca kod produkcyjny (nie wiem która to w końcu będzie)
